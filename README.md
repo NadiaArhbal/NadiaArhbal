@@ -1,5 +1,7 @@
 ### Hi I'm Nadia 👋
 
+![Mienar](https://github.com/NadiaArhbal/NadiaArhbal/assets/99414756/e6abe1e2-5c30-42d8-8476-69acd3352cd7)
+
 <!--
 **NadiaArhbal/NadiaArhbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
