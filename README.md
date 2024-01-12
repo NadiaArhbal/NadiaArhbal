@@ -22,12 +22,11 @@ Here are the aspects I'm currently focusing on:
 * I am a woman of innumerable passions.
 * I love Studio Ghibli films and anime.
 * Java was my first experience with programming.
-* I'm passionate about art (drawing, painting) and like to incorporate this dimension into my projects as much as possible.
+* I'm passionate about art (drawing, painting,...) and like to incorporate this dimension into my projects as much as possible.
   
 ## 📫 Contact
 
 Don't hesitate to contact me for any collaboration or questions on [Linkedin](https://www.linkedin.com/in/nadia-arhbal-908650253/) or [Email](àfaire) 😊
 
-
-![7a68affa5b1996be4467b93109133cbd](https://github.com/NadiaArhbal/NadiaArhbal/assets/99414756/847b0c3f-0928-4d85-96ca-03472d98ab51)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadiaArhbal/NadiaArhbal/assets/99414756/847b0c3f-0928-4d85-96ca-03472d98ab51">
