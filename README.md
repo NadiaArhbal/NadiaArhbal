@@ -1,4 +1,4 @@
-### Hi I'm Nadia :cherry_blossom:
+### Hi, I'm Nadia :cherry_blossom:
 
 I'm a 21-year-old developer based in Belgium, i am passionate about learning all kinds of knowledge.
 
