@@ -5,7 +5,7 @@ I'm a 22 year-old developer based in Belgium, i am passionate about learning all
 
 ## 🔭 Current Endeavors
 
-I'm currently a software engineer in Belgium, and my career path involves both developing and acquiring new skills.   
+I'm currently a software/integration engineer in Belgium, and my career path involves both developing and acquiring new skills.   
 Here are the aspects I'm currently focusing on:
 
 * I'm involved in innovative and stimulating projects.
