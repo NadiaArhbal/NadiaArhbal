@@ -26,7 +26,7 @@ Here are the aspects I'm currently focusing on:
   
 ## 📫 Contact
 
-Don't hesitate to contact me for any collaboration or questions on [Linkedin](https://www.linkedin.com/in/nadia-arhbal-908650253/) or [Email](àfaire) 😊
+Don't hesitate to contact me for any collaboration or questions on [Linkedin](https://www.linkedin.com/in/nadia-a-908650253/) or [Email](àfaire) 😊
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadiaArhbal/NadiaArhbal/assets/99414756/847b0c3f-0928-4d85-96ca-03472d98ab51">
